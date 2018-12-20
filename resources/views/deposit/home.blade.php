@@ -1,0 +1,1 @@
+@extends('deposit.layouts.app')

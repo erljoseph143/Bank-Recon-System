@@ -1,0 +1,1 @@
+{{ $ledgers->appends(request()->except('page'))->links() }}

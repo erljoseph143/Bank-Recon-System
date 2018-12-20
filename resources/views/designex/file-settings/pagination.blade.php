@@ -1,0 +1,1 @@
+{{ $trans_types->appends(request()->except('page'))->links() }}

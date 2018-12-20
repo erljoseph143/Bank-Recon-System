@@ -1,0 +1,1 @@
+{{ $accounts->appends(request()->except('page'))->links() }}

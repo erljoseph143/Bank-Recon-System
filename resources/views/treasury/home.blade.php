@@ -1,0 +1,1 @@
+@extends('treasury.layouts.app')

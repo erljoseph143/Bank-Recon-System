@@ -1,0 +1,1 @@
+{{ $prooflists->links() }}

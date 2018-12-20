@@ -1,0 +1,1 @@
+{{ $sls->appends(request()->except('page'))->links() }}
